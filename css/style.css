@@ -35,6 +35,8 @@ header{
     font-size: 25px;
     font-weight: 600;
     color: #ffff;
+    display: flex;
+    align-items: center;
 }
 .navbar .nav-navbar{
     display: flex;
@@ -57,7 +59,7 @@ header{
     display: none;
 }
 .fa-bars{
-    padding: 15px;
+    padding: 10px;
     background-color: #3B3A37;
     border-radius: 10px;
 }
